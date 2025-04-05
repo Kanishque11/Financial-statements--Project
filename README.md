@@ -73,7 +73,7 @@ Each statement is auto-calculated using Excel formulas and remains consistent ac
 - Tracked how earnings quality improved as operations scaled and fixed costs diluted.
 - Used KPIs to validate investor viability and financial health in out-years.
 
-![QoE analysis](Screenshots/Qoe_analysis.png)
+![QoE analysis](Screenshots/QoE_analysis.png)
 
   
 ---
